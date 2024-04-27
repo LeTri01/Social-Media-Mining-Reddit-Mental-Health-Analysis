@@ -10,7 +10,7 @@
 #### 1. Retrieve the data from this [post](https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/), and put it in the same directory as the notebook.
 #### 2. Ensure that you have Jupyter Notebook installed.
 #### 3. Open the file in Jupyter Notebook.
-#### 4. Then all the cells in the notebook.
+#### 4. Then run all the cells in the notebook.
 ### Code features:
 #### - Generate a pie chart showing the tone correlation between those who share the same subreddit communities.
 #### - Generate a pie chart showing the average user tone from Reddit posts.
