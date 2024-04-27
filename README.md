@@ -1,3 +1,10 @@
+## Prequisites
+### For the following packages, use `pip install` to install these packages:
+#### - numpy
+#### - transformers
+#### - matplotlib
+#### - gensim
+#### - nltk
 ## Reddit_Mining_Code.ipynb
 ### How to run the code:
 #### 1. Retrieve the data from this [post](https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/), and put it in the same directory as the notebook.
