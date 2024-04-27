@@ -15,6 +15,7 @@
 ### How to run the code:
 #### 1. Ensure you have Visual Studio Code
 #### 2. Open the file in Visual Studio Code
-#### 3. Open the terminal in the same directory of the file, and run the code with the following command: `python chisquared.py`
+#### 3. Add your emotion data into the code, from the pie charts generated in the notebook file.
+#### 4. Open the terminal in the same directory of the file, and run the code with the following command: `python chisquared.py`
 ### Code features:
-#### This code contains the data from the Python notebook and will perform the chi-squared test on the data generated from the notebook.
+#### - This code contains the data from the Python notebook and will perform the chi-squared test on the data generated from the notebook.
